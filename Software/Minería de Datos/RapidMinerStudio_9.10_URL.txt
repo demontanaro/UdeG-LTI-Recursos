@@ -1,0 +1,3 @@
+Esta versión es la última gratuita de este software, solo tiene una limitante: Puede importar/manejar hasta 10 mil filas de datos
+
+https://fossies.org/windows/misc/rapidminer-studio-9.10.1-win64-install.exe
