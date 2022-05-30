@@ -11,7 +11,7 @@ Todo mundo puede aportar mediante un commit utilizando el versionador Git de su 
 Si no pueden o saben utilizar un versionador Git, pueden hacerme llegar el material que deseen compartir (específicando asignatura
 a la que corresponde) al siguiente correo electrónico: carlos.demontanaro@alumno.udg.mx
 
-NOTA: Debido a la limitante de subir archivos con más de 100Mb de tamaño (por archivo) a Github, los archivos con más de 90Mb van a 
+NOTA: Debido a la limitante de subir archivos con más de 100Mb de tamaño (por archivo) a Github, los archivos con más de 90Mb se van a 
 seccionar en las fracciones necesarias para que no haya problema, la herramienta a utilizar será 7zip y los archivos serán autoextraíbles.
 
 Gracias.
