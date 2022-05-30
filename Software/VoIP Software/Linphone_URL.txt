@@ -1,0 +1,5 @@
+Hay una actividad de la materia de redes en la que hay que establecer llamadas telefónicas utilizando VoIP, pero aunque ellos sugieren Zoiper, ese software ya no cuenta con una versión gratuita (aunque se podría solicitar una versión demo)
+
+Esta es la alternativa libre:
+
+https://www.linphone.org/
