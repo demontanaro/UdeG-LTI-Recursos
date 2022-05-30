@@ -1,0 +1,10 @@
+Este software es de paga, pero se puede solicitar una licencia para estudiantes con el correo institucional de la Universidad. (probado con el correo @alumno.udg.mx)
+
+Link para solicitar la licencia: (válida por un año)
+
+https://www.jetbrains.com/community/education/#students
+
+Link para descarga del software:
+
+https://www.jetbrains.com/idea/
+

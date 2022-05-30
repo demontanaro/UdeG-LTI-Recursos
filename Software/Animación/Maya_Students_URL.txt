@@ -1,0 +1,10 @@
+Este software es de paga, pero se puede solicitar una licencia para estudiantes con el correo institucional de la Universidad. (probado con el correo @alumno.udg.mx)
+
+Link para solicitar la licencia: (válida por un año)
+
+https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual
+
+Una vez que les activen su licencia estudiantil (a mí me demoraron 48 Hrs) ya tienen acceso a la "tienda" de software
+de Autodesk y desde ahí pueden instalar el software de Autodesk que requieran incluido el Maya.
+
+La licencia es válida por 6 meses, pero puede ser renovable.
