@@ -1,6 +1,6 @@
 # UdeG-LTI-Recursos
 
-El objetivo de este repositorio es el integrar en un lugar público los materiales académicos necesarios y recursos para elaborar las 
+El objetivo de este repositorio es el de integrar en un lugar público los materiales académicos necesarios y recursos para elaborar las 
 distintas actividades de los 8 semestres que integran la carrera de Licenciatura de Tecnologías e Información y Comunicación de la 
 Universidad de Guadalajara en su modalidad virtual.
 
