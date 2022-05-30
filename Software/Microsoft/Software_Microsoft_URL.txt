@@ -1,0 +1,12 @@
+Para poder activar sus licencias del software de Microsoft (Office, Windows, Projects, etc.) se requiere una cuenta de correo @alumno.udg.mx
+
+Link para aplicar con su correo electrónico a Azure for Students:
+
+https://www.microsoft.com/mea/Azureforedu/
+
+Una vez realidao lo anterior, ya pueden ingresar al área de descarga de software:
+
+https://portal.azure.com/#view/Microsoft_Azure_Education/EducationMenuBlade/~/software
+
+Para ver la licencia de cada software, le dan click al que prefieran y al final de esa ventana (que se abre del lado derecho) van a poder ver/activar su licencia.
+
