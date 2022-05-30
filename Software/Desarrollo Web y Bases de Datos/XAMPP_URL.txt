@@ -1,0 +1,7 @@
+Este software incluye un servidor Web (Apache) y un motor de bases de datos (MariaDB)
+
+Les va a funcionar para desarrollar en su compu las páginas que quieran hacer (lo mismo con las bases de datos) pero el asesor no va a poder lo que hagan ahí.
+
+Es para desarrollo en local únicamente.
+
+https://www.apachefriends.org/index.html
