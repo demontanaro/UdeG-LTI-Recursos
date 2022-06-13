@@ -1,0 +1,24 @@
+http://es.slideshare.net/marfonline/analisis-de-requerimientos-ingenieria-de-software
+
+http://users.dcc.uchile.cl/~psalinas/uml/introduccion.html
+
+http://www.mcc.unam.mx/~cursos/Objetos/Cap17/cap17.html
+
+
+
+-----------------------------------------------------------------------------------------
+
+Análisis de requerimientos. Disponible en:
+
+http://es.slideshare.net/marfonline/analisis-de-requerimientos-ingenieria-de-software
+
+Kimmel, Paul. (2007). Manual de UML. México: McGraw-Hill. Pp. 17-44. Que podrás consultar directamente en las computadoras de la biblioteca de UDGVirtual.
+
+Salinas, P. Tutorial de UML. Chile: Universidad de Chile. Recuperado de: http://users.dcc.uchile.cl/~psalinas/uml/introduccion.html
+
+Casos de uso. Disponible en: http://users.dcc.uchile.cl/~psalinas/uml/casosuso.html
+
+Manual de UML / PaulStarUML
+
+http://www.mcc.unam.mx/~cursos/Objetos/Cap17/cap17.html
+---------------------------------------------------------------------------------------------------
